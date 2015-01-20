@@ -1,0 +1,16 @@
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\bin\Porte folio.dll.config
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\bin\Porte folio.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\bin\Porte folio.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\bin\Newtonsoft.Json.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\bin\Newtonsoft.Json.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\obj\Debug\Porte folio.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\obj\Debug\Porte folio.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Porte folio\Porte folio\obj\Debug\Porte folio.pdb
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\bin\Porte folio.dll.config
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\bin\Porte folio.dll
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\bin\Porte folio.pdb
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\bin\Newtonsoft.Json.dll
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\bin\Newtonsoft.Json.xml
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\obj\Debug\Porte folio.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\obj\Debug\Porte folio.dll
+C:\Users\Thomas\Desktop\Porte folio\Porte folio\obj\Debug\Porte folio.pdb
